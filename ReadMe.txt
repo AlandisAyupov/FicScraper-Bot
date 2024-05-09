@@ -1,5 +1,6 @@
-Had difficulty with replacing white arrow folder in github. Code for bot is here: https://github.com/AlandisAyupov/bot
+If you have questions on how to run, email ayupovalandis@gmail.com. Please title your email "GIT QUESTION - {Name of repository}. I will reply given some time and will possibly update the ReadMe if needed.
 
+Had difficulty with replacing white arrow folder in github. Code for bot is here: https://github.com/AlandisAyupov/bot
 
 TO RUN FICSCRAPER: 
 
