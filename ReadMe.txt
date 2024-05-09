@@ -5,6 +5,7 @@ TO RUN FICSCRAPER:
 
 Requirements:
 Python installation. 
+MySQL installation.
 
 You may have to create your own virtual environment if you are running it under the newest version of Python. Delete the venv folder, and run the following commands.
 
