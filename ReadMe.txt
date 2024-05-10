@@ -32,6 +32,10 @@ await rest.put(
       ),
       { body: commands }
     );
+// FOURTH SEGMENT
+client.login(
+  process.env.TOKEN
+);
 
 
 TO RUN FICSCRAPER: 
