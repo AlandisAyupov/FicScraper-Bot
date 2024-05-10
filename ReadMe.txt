@@ -7,8 +7,7 @@ Navigate to bot directory.
 
 run "npm install"
 
-Replace process.env.PASS with the password for your MySQL database, and other settings (like database name) if needed. You can watch this tutorial on how to create a discord bot, some of the information isn't 
-needed but this tutorial is still helpful: https://www.youtube.com/watch?v=KZ3tIGHU314&list=PLpmb-7WxPhe0ZVpH9pxT5MtC4heqej8Es .
+Replace process.env.PASS with the password for your MySQL database, and other settings (like database name) if needed. For the other environmental variables, you can watch this tutorial on how to create a discord bot: https://www.youtube.com/watch?v=KZ3tIGHU314&list=PLpmb-7WxPhe0ZVpH9pxT5MtC4heqej8Es .
 
 // CODE YOU NEED TO EDIT - FIRST SEGMENT
 const db = mysql.createConnection({
